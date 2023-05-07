@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-size: 62.5%;
+  width: 500px;
+}
+
+.flex {
+  display: flex;
+}
+
+.f-7 {
+  flex-basis: 70%;
+}
+.f-3 {
+  flex-basis: 30%;
+}

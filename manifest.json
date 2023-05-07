@@ -1,0 +1,10 @@
+{
+  "name": "Todo List",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A simple todo list extension that uses IndexDB to store tasks.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
